@@ -1,0 +1,14 @@
+{
+  "name": "cloud_functions",
+  "version": "1.0.0",
+  "description": "Serverless functions used by the solentcloud_web project",
+  "main": "submission-created.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Horan <nick@draytoncoder.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "aws-sdk": "^2.906.0"
+  }
+}
